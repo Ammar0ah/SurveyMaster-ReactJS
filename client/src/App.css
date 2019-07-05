@@ -1,0 +1,17 @@
+body,
+#root {
+  min-height: 100%;
+  overflow: visible;
+}
+body {
+  background-color: #ccc1ff;
+}
+body.dark {
+    background-color: #553c8b;
+  }  
+.row {
+  margin: 0 !important;
+}
+.rs-picker-disabled .rs-picker-toggle, .rs-picker-disabled .rs-picker-toggle-custom { 
+  cursor: auto;
+}
