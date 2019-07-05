@@ -7,6 +7,7 @@
    New project built in most popular platforms
 * delete, Rearrange questions, change color of survey.
 * fill page to fill the survey with unique UI design .
+* add admins to surveys
 * get your responses, export them to xlsx or PDF
 * get reports of your survey displayed as charts to get useful information with one-click
 
@@ -14,7 +15,6 @@ Beta features:
 * translate your survey to any language
 
 Coming-soon features: 
-* add admins to surveys
 * add private surveys
 * break surveys into pages 
 * add profile section 
