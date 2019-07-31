@@ -28,7 +28,7 @@ Coming-soon features:
 
 
 > Full Demos iOS & ReactJS:
-  https://drive.google.com/drive/folders/1738vAXU1B47vbF_4j_N3ocWzYKZHjm1F>
+  https://drive.google.com/drive/folders/1738vAXU1B47vbF_4j_N3ocWzYKZHjm1F
   
   
   Project Repos: 
