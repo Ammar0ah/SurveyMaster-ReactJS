@@ -32,14 +32,14 @@ Coming-soon features:
   
   
   Project Repos: 
-* ![Web with back-end](https://github.com/Ammar0ah/SurveyMaster-ReactJS)
-* ![Android](https://github.com/kaisalar/SurveyMaster/tree/android)
-* ![iOS](Ammar0ah/SurveyMaster-iOS)
+* [Web with back-end](https://github.com/Ammar0ah/SurveyMaster-ReactJS)
+* [Android](https://github.com/kaisalar/SurveyMaster/tree/android)
+* [iOS](Ammar0ah/SurveyMaster-iOS)
 ### Authors:
 * iOS: [Ammar Al-Helali](https://github.com/Ammar0ah)
-* ReactJS: ![Ammar Al-Helali](https://github.com/Ammar0ah),![Mouaz Al-Khodari](https://github.com/mouazAlkhodari),![Kareem Dabbeet](https://github.com/KareemDa)
-* Android: ![Kais Alar](https://github.com/kaisalar), ![Kinan Al-Moalem](https://github.com/kinanAlmoalm)
-* NodeJS with Express : ![Kais Alar](https://github.com/kaisalar)![Kinan Almoalem](https://github.com/kinanAlmoalm),![Mouaz Al-Khodari](https://github.com/mouazAlkhodari)
+* ReactJS: [Ammar Al-Helali](https://github.com/Ammar0ah),[Mouaz Al-Khodari](https://github.com/mouazAlkhodari),[Kareem Dabbeet](https://github.com/KareemDa)
+* Android: [Kais Alar](https://github.com/kaisalar), [Kinan Al-Moalem](https://github.com/kinanAlmoalm)
+* NodeJS with Express : [Kais Alar](https://github.com/kaisalar),[Kinan Almoalem](https://github.com/kinanAlmoalm),[Mouaz Al-Khodari](https://github.com/mouazAlkhodari)
 
 
 ### Version
